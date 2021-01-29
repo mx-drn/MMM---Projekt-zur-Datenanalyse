@@ -1,0 +1,70 @@
+casserole recipes
+vegan dessert recipes
+german food glossary
+vegetarian main dish recipes
+vegetable recipes
+japanese food glossary
+italian recipes
+low-calorie recipes
+american recipes
+better digestion recipes
+snack recipes
+//romanian meat dishes
+vegetarian recipes
+fruit recipes
+healthy recipes for diabetic friends
+lunch recipes
+diabetic-friendly recipes
+//candy recipes
+vegetarian side dish recipes
+low-cholesterol recipes
+//fish recipes
+healthy main dishes
+main dish recipes
+main dish meat recipes
+meat recipes
+//fish recipesfish
+main dish seafood recipes
+mexican recipes
+//cathy's recipes
+vegan recipes
+soup recipes
+appetizer recipes
+//christmas desserts
+salad recipes
+side dish recipes
+breakfast recipes
+brunch recipes
+//american desserts
+//romanian desserts
+--pie recipes
+--muffin recipes
+--dessert loaf recipes
+--vegetarian appetizer recipes
+cake recipes
+italian food glossary
+spanish food glossary
+dessert recipes
+--seafood appetizer recipes
+indian food glossary
+--instant pudding recipes
+dinner recipes
+indian recipes
+--side dish rice recipes
+french food glossary
+--beef steak recipes
+--main dish poultry recipes
+--turkey meat recipes
+gluten-free recipes
+--rice pudding recipes
+--canned mushroom soup recipes
+asian recipes
+--vegetable stock and broth recipes
+--fruit salad recipes
+--vegan side dish recipes
+
+//Neuronale Netze:
+1. Länder
+2. Gangart (Salad, Maindish, Side Dish, Dessert, ...)
+3. Veg./Veget./Fleisch
+4. Mahlzeit (Frühstück,Mittag-,Abendessen)
