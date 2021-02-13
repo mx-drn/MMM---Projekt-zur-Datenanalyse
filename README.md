@@ -4,7 +4,7 @@ BertClassifier.ipynb
 Die Variable "PATH" muss entsprechend dem aktuellen Dateipfad angepasst werden.
 
 GloveClassifier.ipynb
-Die Variable DATA_PATH muss entsprechend dem aktuellen Dateipfad angepasst werden.
+Die Variable "DATA_PATH" muss entsprechend dem aktuellen Dateipfad angepasst werden.
 
 
 Die BERT pretrained Models, sowie das GLOVE Model, müssen aus Lea heruntergeladen werden und in die Ordnerstruktur eingebettet werden. (Im Ordner Rezeptklassifikation in Lea)
